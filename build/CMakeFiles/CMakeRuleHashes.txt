@@ -1,0 +1,3 @@
+# Hashes of file build rules.
+d16c2ae82a33f20b44697dd6cd505f03 /home/banban/workspace/jiangxinyu_ws/ros_ws/devel/share/roseus/ros/chapter2_tutorials/manifest.l
+90e1510ecc2fc1477753de27c397af8f CMakeFiles/clean_test_results

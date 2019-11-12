@@ -1,0 +1,1 @@
+/usr/bin/c++    -rdynamic CMakeFiles/example1_b,.dir/src/example1_b.cpp.o  -o /home/banban/workspace/jiangxinyu_ws/ros_ws/devel/lib/chapter2_tutorials/example1_b, 
