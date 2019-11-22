@@ -1,0 +1,8 @@
+prefix=/home/banban/workspace/jiangxinyu_ws/ros_ws/install
+
+Name: byd_gazebo
+Description: Description of byd_gazebo
+Version: 0.0.0
+Cflags: 
+Libs: -L/home/banban/workspace/jiangxinyu_ws/ros_ws/install/lib 
+Requires: 

@@ -132,6 +132,11 @@ if(NOT CMAKE_INSTALL_LOCAL_ONLY)
   # Include the install script for each subdirectory.
   include("/home/banban/workspace/jiangxinyu_ws/ros_ws/build/gtest/cmake_install.cmake")
   include("/home/banban/workspace/jiangxinyu_ws/ros_ws/build/chapter2_tutorials/cmake_install.cmake")
+  include("/home/banban/workspace/jiangxinyu_ws/ros_ws/build/mbot_teleop/cmake_install.cmake")
+  include("/home/banban/workspace/jiangxinyu_ws/ros_ws/build/byd_gazebo/cmake_install.cmake")
+  include("/home/banban/workspace/jiangxinyu_ws/ros_ws/build/mbot_gazebo/cmake_install.cmake")
+  include("/home/banban/workspace/jiangxinyu_ws/ros_ws/build/prius_description/cmake_install.cmake")
+  include("/home/banban/workspace/jiangxinyu_ws/ros_ws/build/mbot_description/cmake_install.cmake")
 
 endif()
 

@@ -1,2 +1,2 @@
-chapter2_tutorials
+byd_gazebo:chapter2_tutorials:mbot_description:mbot_gazebo:mbot_teleop:prius_description
 -DCATKIN_DEVEL_PREFIX=/home/banban/workspace/jiangxinyu_ws/ros_ws/devel -DCMAKE_INSTALL_PREFIX=/home/banban/workspace/jiangxinyu_ws/ros_ws/install -G Unix Makefiles
